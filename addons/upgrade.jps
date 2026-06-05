@@ -1,13 +1,13 @@
 version: 1.5
 type: update
-id: kubernetes-upgrade-to-1.29.9
-name: Kubernetes Upgrade to 1.29.9
+id: kubernetes-upgrade-to-1.29.14
+name: Kubernetes Upgrade to 1.29.14
 
 categories:
   - apps/dev-and-admin-tools
 
 homepage: https://github.com/jelastic-jps/kubernetes
-baseUrl: https://cdn.jsdelivr.net/gh/jelastic-jps/kubernetes@v1.29.9
+baseUrl: https://cdn.jsdelivr.net/gh/jelastic-jps/kubernetes@v1.29.14
 logo: /images/k8s-logo.png
 
 description:
