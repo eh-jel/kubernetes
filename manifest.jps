@@ -80,8 +80,8 @@ onInstall:
              **Cluster URL:** <${env.protocol}://${env.domain}>
 
              Enter [Kubernetes dashboard](${globals.dashboardUrl}) ${globals.default_api:} using the Access Token:
-             ```${globals.token}```
-             ```
+```${globals.token}```
+
   - check-health
 
 onAfterScaleOut:
