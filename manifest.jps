@@ -81,7 +81,7 @@ onInstall:
 
              Enter [Kubernetes dashboard](${globals.dashboardUrl}) ${globals.default_api:} using the Access Token:
              ```${globals.token}```
-```
+             ```
   - check-health
 
 onAfterScaleOut:
